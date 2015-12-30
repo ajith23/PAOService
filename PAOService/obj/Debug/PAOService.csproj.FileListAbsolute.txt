@@ -1,0 +1,9 @@
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\PAOService.dll.config
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\PAOService.dll
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\PAOService.pdb
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\obj\Debug\PAOService.csprojResolveAssemblyReference.cache
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\obj\Debug\PAOService.dll
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\obj\Debug\PAOService.pdb
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\MySql.Data.dll
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\MySql.Data.Entity.dll
+c:\users\avimalch\documents\visual studio 2015\Projects\PAOService\PAOService\bin\MySql.Web.dll
